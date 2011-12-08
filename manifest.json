@@ -1,0 +1,15 @@
+{
+  "name": "klicktel.de for Chrome",
+  "version": "1.0",
+  "description": "The fabulous app from iPhone/Android now for Google Chrome.",
+  "icons": { "128": "img/klicktel.de.app.png" },
+  "browser_action": {
+    "default_icon": "img/klicktel.de.app.png",
+    "popup": "popup.html"
+  },
+  "permissions": [
+  	"tabs",
+    "http://openapi.klicktel.de/",
+    "http://www.klicktel.de"
+  ]
+}

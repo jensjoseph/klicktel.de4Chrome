@@ -1,0 +1,122 @@
+100;Orange;Fast Food;Fast Food;NULL;fastfood_hauptmenue.png
+102;Orange;Fast Food;Burger;Burger;fastfood_burger.png
+103;Orange;Fast Food;Imbiss;y3AppImbiss;fastfood_imbiss.png
+104;Orange;Fast Food;Pizzataxi;y3AppPizzaTaxi;fastfood_pizza.png
+105;Orange;Fast Food;Döner;y3AppDöner;fastfood_doener.png
+106;Orange;Fast Food;Asiatisch;y3AppFastFoodAsiatisch;fastfood_asiatisch.png
+107;Orange;Fast Food;24 Stunden;Fast Food - 24h;fastfood_24.png
+108;Orange;Fast Food;Sandwich;Sandwich;fastfood_baguette.png
+109;Orange;Fast Food;Fisch;Fast Fisch;fastfood_fisch.png
+110;Orange;Fast Food;Back-Shops;y3AppSBBäckereien;fastfood_backshop.png
+200;Orange;Restaurant;Restaurant;NULL;restaurant_hauptmenue.png
+201;Orange;Restaurant;Restaurant;y3AppRestaurantsAlle;restaurant_alle.png
+202;Orange;Restaurant;Deutsch;y3AppRestaurantsDeutsch;restaurant_deutsch.png
+203;Orange;Restaurant;Italienisch;y3AppRestaurantsItalienisch;restaurant_italienisch.png
+204;Orange;Restaurant;Griechisch;y3AppRestaurantsGriechisch;restaurant_griechisch.png
+205;Orange;Restaurant;Chinesisch;y3AppRestaurantsChinesisch;restaurant_chinesisch.png
+206;Orange;Restaurant;Steakhaus;y3AppRestaurantsSteakhäuser;restaurant_steak.png
+207;Orange;Restaurant;Türkisch;y3AppRestaurantsTürkisch;restaurant_tuerkisch.png
+208;Orange;Restaurant;Fisch;y3AppRestaurantsFischspezialitäten;restaurant_fisch.png
+209;Orange;Restaurant;Sushi;y3AppRestaurantsSushi;restaurant_sushi.png
+210;Orange;Restaurant;Mexikanisch;y3AppRestaurantsMexikanisch;restaurant_mexikanisch.png
+211;Orange;Restaurant;Indisch;y3AppRestaurantsIndisch;restaurant_indisch.png
+212;Orange;Restaurant;Französisch;y3AppRestaurantsFranzösisch;restaurant_franzoesisch.png
+213;Orange;Restaurant;Cafés;y3AppCafés;restaurant_cafe.png
+214;Orange;Restaurant;Biergarten;y3AppBiergärten;restaurant_biergarten.png
+215;Orange;Restaurant;Eiscafé;y3AppEisdielen;restaurant_eiscafe.png
+300;Orange;Hotel;Hotels;NULL;hotel_hauptmenue.png
+301;Orange;Hotel;Hotels;y3AppHotels;hotel_hotel.png
+302;Orange;Hotel;Pension;y3AppPensionen;hotel_pension.png
+303;Orange;Hotel;Jugendherb.;y3AppJugendherbergen;hotel_jugendherberge.png
+304;Orange;Hotel;Ferienwhg;y3AppFerienwohnungen;hotel_ferienwohnung.png
+400;Gelb;Taxi;Taxi;NULL;taxi_hauptmenue.png
+401;Gelb;Taxi;Taxi;y3AppTaxiunternehmen;taxi_taxi.png
+402;Gelb;Taxi;Taxi 24;y3AppTaxizentralen;taxi_24h.png
+403;Gelb;Taxi;Kurierdienst;y3AppKurierdienste;taxi_kurier.png
+404;Gelb;Taxi;Krankentrans.;y3AppKrankentransporte;taxi_transport.png
+500;Blau;Unterwegs;Unterwegs;NULL;unterwegs_hauptmenue.png
+501;Blau;Unterwegs;Radar;Radar;unterwegs_radarfalle.png
+502;Blau;Unterwegs;Stau;Staus;unterwegs_verkehr.png
+503;Blau;Unterwegs;Tanken;Tanken;unterwegs_tanken.png
+504;Blau;Unterwegs;Autogas;Tanken - Autogas;unterwegs_autogas.png
+505;Blau;Unterwegs;Tanken 24;Tanken - 24h;unterwegs_tanken24.png
+506;Blau;Unterwegs;Tanken AB;Tanken - Autobahn;unterwegs_tankenAB.png
+507;Blau;Unterwegs;Tank+Shop;Tanken - mit Shop;unterwegs_tankshop.png
+508;Blau;Unterwegs;Mietwagen;y3AppAutovermietung;unterwegs_autovermietung.png
+509;Blau;Unterwegs;Pannendienst;y3AppRufPannendienst;unterwegs_pannendienst.png
+600;Blau;Automobil;Automobil;NULL;auto_hauptmenue.png
+601;Blau;Automobil;Werkstatt;y3AppAutowerkstätten;auto_service.png
+602;Blau;Automobil;VW;KFZService - VW;auto_vw.png
+603;Blau;Automobil;Mercedes;KFZService - Mercedes;auto_mercedes.png
+604;Blau;Automobil;BMW;KFZService - BMW;auto_bmw.png
+605;Blau;Automobil;Opel;KFZService - Opel;auto_opel.png
+606;Blau;Automobil;Audi;KFZService - Audi;auto_audi.png
+607;Blau;Automobil;Reifen;y3AppAutoReifen;auto_reifen.png
+608;Blau;Automobil;Autozubehör;y3AppAutoteile;auto_zubehoer.png
+609;Blau;Automobil;ADAC & Co;y3AppAutomobilclubs;auto_clubs.png
+610;Blau;Automobil;Fahrschule;y3AppAutoFahrschulen;auto_fahrschule.png
+611;Blau;Automobil;Zulassung;y3AppKfzZulassungsstellenAmtliche;auto_zulassung.png
+612;Blau;Automobil;Motorrad;y3AppMotorräder;auto_motorrad.png
+700;Lila;Body;Body;NULL;body_hauptmenue.png
+701;Lila;Body;Friseur;y3AppFriseure;body_friseur.png
+702;Lila;Body;Schwimmen;y3AppBadeanstalten;body_schwimmen.png
+703;Lila;Body;Fitness;y3AppFitness;body_fitness.png
+704;Lila;Body;Sport;y3AppSportstudios;body_sport.png
+705;Lila;Body;Solarium;y3AppSonnenstudios;body_solarium.png
+706;Lila;Body;Nagelstudio;y3AppNagelstudios;body_nagelstudio.png
+707;Lila;Body;Tattoo & Co;y3AppTattoostudios;body_tattoo.png
+708;Lila;Body;Kosmetik;y3AppKosmetikstudios;body_kosmetik.png
+709;Lila;Body;Sauna;y3AppSaunas;body_sauna.png
+710;Lila;Body;Tennis;y3AppTennis;body_tennis.png
+711;Lila;Body;Wellness;y3AppWellness;body_wellness.png
+800;Lila;Nachtleben;Nachtleben;NULL;nachtleben_hauptmenue.png
+801;Lila;Nachtleben;Bars;y3AppBars;nachtleben_bars.png
+802;Lila;Nachtleben;Discothek;y3AppDiskotheken;nachtleben_discos.png
+803;Lila;Nachtleben;Kino;y3AppKinos;nachtleben_kino.png
+804;Lila;Nachtleben;Billard;y3AppBillardcenter;nachtleben_billard.png
+805;Lila;Nachtleben;Bowling;y3AppBowlinganlagen;nachtleben_bowling.png
+806;Lila;Nachtleben;Bistros;y3AppBistros;nachtleben_bistros.png
+807;Lila;Nachtleben;Kneipe;y3AppKneipen;nachtleben_kneipen.png
+808;Lila;Nachtleben;Kegeln;y3AppKegelbahnen;nachtleben_kegeln.png
+900;Rot;Gesundheit;Gesundheit;NULL;gesundheit_hauptmenue.png
+901;Rot;Gesundheit;Apotheke;y3AppApotheken;gesundheit_apotheke.png
+902;Rot;Gesundheit;Notapotheke;Notapotheke;gesundheit_notapotheke.png
+903;Rot;Gesundheit;Krankenhaus;y3AppKrankenhäuser;gesundheit_krankenhaus.png
+904;Rot;Gesundheit;Allg.-Arzt;y3AppAllgemeinärzte;gesundheit_allgemeinarzt.png
+905;Rot;Gesundheit;Zahnarzt;y3AppZahnärzte;gesundheit_zahnarzt.png
+906;Rot;Gesundheit;Orthopäde;y3AppOrthopäden;gesundheit_orthopaede.png
+907;Rot;Gesundheit;Frauenarzt;y3AppFrauenärzte;gesundheit_frauenarzt.png
+908;Rot;Gesundheit;Kinderarzt;y3AppKinderärzte;gesundheit_kinderarzt.png
+909;Rot;Gesundheit;Hautarzt;y3AppDermatologen;gesundheit_hautarzt.png
+910;Rot;Gesundheit;Augenarzt;y3AppAugenärzte;gesundheit_augenarzt.png
+911;Rot;Gesundheit;HNO-Arzt;y3AppÄrzteHNO;gesundheit_hno.png
+912;Rot;Gesundheit;Massage;y3AppMassagepraxen;gesundheit_physio.png
+913;Rot;Gesundheit;Optiker;y3AppOptiker;gesundheit_optiker.png
+914;Rot;Gesundheit;Tierarzt;y3AppTierärzte;gesundheit_tier.png
+915;Rot;Gesundheit;Krankenvers.;y3AppKrankenversicherungen;gesundheit_versicherung.png
+1000;Grün;Shopping;Shop;NULL;shop_hauptmenue.png
+1001;Grün;Shopping;Lebensmittel;y3AppLebensmittel;shop_lebensmittel.png
+1002;Grün;Shopping;Bekleidung;y3AppBekleidung;shop_bekleidung.png
+1003;Grün;Shopping;Bäcker;y3AppBäckereien;shop_baecker.png
+1004;Grün;Shopping;Getränke;y3AppGetränke;shop_getraenke.png
+1005;Grün;Shopping;Metzger;y3AppMetzgereien;shop_metzger.png
+1006;Grün;Shopping;Baumarkt;y3AppBaumärkte;shop_baumarkt.png
+1007;Grün;Shopping;Multimedia;y3AppMultimedia;shop_multimedia.png
+1008;Grün;Shopping;Computer;y3AppComputerFachgeschäfte;shop_computer.png
+1009;Grün;Shopping;Schuhe;y3AppSchuhgeschäfte;shop_schuhe.png
+1010;Grün;Shopping;Möbel;y3AppMöbel;shop_moebel.png
+1011;Grün;Shopping;Blumen;y3AppBlumen;shop_blumen.png
+1100;Grün;Geldautomat;Geldautomat;NULL;ec_hauptmenue.png
+1101;Weiß;Geldautomat;Sparkasse;Geldautomaten - Sparkasse;ec_sparkasse.png
+1102;Weiß;Geldautomat;Volksbank;Geldautomaten - VR-Bank;ec_volksbank.png
+1103;Weiß;Geldautomat;Postbank;Geldautomaten - Postbank;ec_postbank.png
+1104;Weiß;Geldautomat;Commerz;Geldautomaten - Commerzbank;ec_commerzbank.png
+1105;Weiß;Geldautomat;Deutsche;Geldautomaten - Deutsche Bank;ec_deutschebank.png
+1106;Weiß;Geldautomat;Sparda;Geldautomaten - Sparda Bank;ec_sparda.png
+1107;Weiß;Geldautomat;ING-DiBa;Geldautomaten - ING-DiBa;ec_ingdiba.png
+1108;Weiß;Geldautomat;Targobank;Geldautomaten - Targobank;ec_targo.png
+1109;Weiß;Geldautomat;HypoVereins;Geldautomaten - HypoVereinsbank;ec_hypo.png
+1110;Grün;Geldautomat;Alle;Geldautomaten;ec_alle.png
+1111;Weiß;Geldautomat;Cashgroup;Cash Group;ec_cashgroup.png
+1112;Weiß;Geldautomat;Cashpool;Cash Pool;ec_cashpool.png
+1200;AnderesGrün;Personen;Personen;NULL;personensuche.png;
