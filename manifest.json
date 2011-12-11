@@ -1,6 +1,6 @@
 {
   "name": "klicktel.de for Chrome",
-  "version": "1.0",
+  "version": "0.9",
   "description": "The fabulous app from iPhone/Android now for Google Chrome.",
   "icons": { "128": "img/klicktel.de.app.png" },
   "browser_action": {
